@@ -17,8 +17,6 @@ export default function MyApp() {
         My full name is {getFullName("Jaocb", "Paul", "Weatherly")}{"\n"}
         I have a {pet}!
         </Text>
-
-        
   
   );
 }
